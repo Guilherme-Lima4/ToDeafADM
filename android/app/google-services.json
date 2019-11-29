@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350849477626",
+    "firebase_url": "https://todeaf-dc7f3.firebaseio.com",
+    "project_id": "todeaf-dc7f3",
+    "storage_bucket": "todeaf-dc7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350849477626:android:f0dd1c34f9a90034261243",
+        "android_client_info": {
+          "package_name": "com.to_deaf_tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350849477626-c7v6qua921k01n08k6kgop7ons6pink7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.to_deaf_tcc",
+            "certificate_hash": "ecbcf8f1f5fb9ee6d471ae2fbfa130255937d73a"
+          }
+        },
+        {
+          "client_id": "350849477626-pclqhsdqeju55sbmm93e603t6jtqnro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1fIkUtyNFZ13nbN-oPu5xU8NnaspVXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350849477626-pclqhsdqeju55sbmm93e603t6jtqnro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
