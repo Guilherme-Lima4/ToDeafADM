@@ -112,8 +112,8 @@ export default class AceitarLocate extends Component {
 
         <View style={styles.drawer}>
           <TouchableOpacity style={{ padding: 20 }}
-            onPress={() => { this.props.navigation.toggleDrawer(); }}>
-            <Iconm name='menu' size={30} color="#000"></Iconm>
+            onPress={() =>{} }>
+            <Iconn name='deaf' size={30} color="#000"></Iconn>
           </TouchableOpacity>
           <Text style={styles.title}>Adicionar localização</Text>
         </View>
