@@ -1,6 +1,5 @@
 package com.todeafadm;
 
-package com.to_deaf_tcc;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -17,7 +16,7 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "ToDeafADM";
   }
-} 
+ 
   
   @Override
   protected ReactActivityDelegate createReactActivityDelegate() {
@@ -29,4 +28,4 @@ public class MainActivity extends ReactActivity {
     };
   }
 }
-  
+

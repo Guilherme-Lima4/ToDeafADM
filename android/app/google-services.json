@@ -29,7 +29,36 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCj1fIkUtyNFZ13nbN-oPu5xU8NnaspVXw"
+          "current_key": "AIzaSyASqpX0ABEIaGHtMEMBhheqPeCXApdzygI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350849477626-pclqhsdqeju55sbmm93e603t6jtqnro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350849477626:android:8c95e05e9d8c22f4261243",
+        "android_client_info": {
+          "package_name": "com.todeafadm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350849477626-pclqhsdqeju55sbmm93e603t6jtqnro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqpX0ABEIaGHtMEMBhheqPeCXApdzygI"
         }
       ],
       "services": {
